@@ -29,7 +29,7 @@ maven { url "https://raw.githubusercontent.com/tunye/aar/master" }
 
 依赖添加
 
-```
+```gradle
 implementation 'com.buaa.ct:videocache:1.0.0'
 implementation 'com.buaa.ct:image-selector:1.0.0'
 implementation 'com.buaa.ct:pudding:1.0.0'
@@ -60,7 +60,7 @@ implementation 'com.buaa.ct:core:1.0.0'
 
 工程目录执行 
 
-```
+```gradle
 gradlew uploadArchives
 ```
 
