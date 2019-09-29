@@ -46,12 +46,12 @@ implementation 'com.buaa.ct:core:1.0.0'
 | 编号 | 名称           | 功能           |   子依赖   | 版本  |
 | :--: | -------------- | -------------- | :--------: | :---: |
 |  1   | videocache     | 流缓存         |     无     | 1.0.0 |
-|  2   | comment        | 评论           |    core    | 1.0.0 |
-|  3   | pudding        | 单页面弹框提示 |    core    | 1.0.0 |
-|  4   | qrcode         | 二维码         |    core    | 1.0.0 |
-|  5   | image-selector | 选图           |    core    | 1.0.0 |
-|  6   | core           | 核心           | swipe;skin | 1.0.0 |
-|  7   | swipe          | 左滑           |     无     | 1.0.0 |
+|  2   | comment        | 评论           |    core    | 1.0.1 |
+|  3   | pudding        | 单页面弹框提示 |    core    | 1.0.1 |
+|  4   | qrcode         | 二维码         |    core    | 1.0.1 |
+|  5   | image-selector | 选图           |    core    | 1.1.0 |
+|  6   | core           | 核心           | swipe;skin | 1.1.0 |
+|  7   | swipe          | 左滑           |     无     | 1.0.1 |
 |  8   | skin           | 皮肤           |     无     | 1.0.0 |
 
 
