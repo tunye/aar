@@ -1,5 +1,5 @@
 # aar
-在线aar库。
+[陈彤的在线aar库](https://github.com/tunye/aar)。
 
 
 
@@ -43,16 +43,16 @@ implementation 'com.buaa.ct:core:1.0.0'
 
 ### 三、版本
 
-| 编号 | 名称           | 功能           |   子依赖   | 版本  |
-| :--: | -------------- | -------------- | :--------: | :---: |
-|  1   | videocache     | 流缓存         |     无     | 1.0.0 |
-|  2   | comment        | 评论           |    core    | 1.1.0 |
-|  3   | pudding        | 单页面弹框提示 |    core    | 1.0.2 |
-|  4   | qrcode         | 二维码         |    core    | 1.0.2 |
-|  5   | image-selector | 选图           |    core    | 1.1.1 |
-|  6   | core           | 核心           | swipe;skin | 1.1.1 |
-|  7   | swipe          | 左滑           |     无     | 1.0.1 |
-|  8   | skin           | 皮肤           |     无     | 1.0.0 |
+| 编号 | 名称           | 功能           |   子依赖   | 最新版本 |
+| :--: | -------------- | -------------- | :--------: | :------: |
+|  1   | videocache     | 流缓存         |     无     |  1.0.0   |
+|  2   | comment        | 评论           |    core    |  1.1.1   |
+|  3   | pudding        | 单页面弹框提示 |    core    |  1.0.3   |
+|  4   | qrcode         | 二维码         |    core    |  1.0.3   |
+|  5   | image-selector | 选图           |    core    |  1.1.2   |
+|  6   | core           | 核心           | swipe;skin |  1.1.2   |
+|  7   | swipe          | 左滑           |     无     |  1.0.1   |
+|  8   | skin           | 皮肤           |     无     |  1.0.0   |
 
 
 
